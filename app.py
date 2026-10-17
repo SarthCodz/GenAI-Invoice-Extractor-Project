@@ -74,7 +74,7 @@ def save_to_csv(data):
             writer.writerow(["timestamp", "vendor", "model_name", "count", "total_amount"])
 
         for item in data["items"]:
-            timestamp = datetime.now().isoformat()
+            timestamp = datetime.datetime.now()
             mod_name = item["model_name"]
             count = item["count"]
             tot = item["total_amount"]
