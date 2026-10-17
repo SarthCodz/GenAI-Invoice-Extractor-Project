@@ -1,0 +1,8 @@
+INVOICE #1001
+    Vendor: Global Hardware Inc.
+    Date: 2026-10-02
+    
+    Line Items:
+    - Beta-Core Switch | Quantity: 4 | Total Amount: $215.0
+    
+    Terms: Net 30. Thank you for your business!

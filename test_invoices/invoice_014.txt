@@ -1,0 +1,8 @@
+INVOICE #1014
+    Vendor: Nexus Parts Co.
+    Date: 2026-10-15
+    
+    Line Items:
+    - Omega-Display Panel | Quantity: 7 | Total Amount: $1127.0
+    
+    Terms: Net 30. Thank you for your business!

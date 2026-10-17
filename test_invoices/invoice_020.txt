@@ -1,0 +1,8 @@
+INVOICE #1020
+    Vendor: TechCorp Supplies
+    Date: 2026-10-21
+    
+    Line Items:
+    - Alpha-X Router | Quantity: 1 | Total Amount: $210.5
+    
+    Terms: Net 30. Thank you for your business!

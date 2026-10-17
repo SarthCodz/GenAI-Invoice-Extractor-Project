@@ -1,0 +1,8 @@
+INVOICE #1017
+    Vendor: Apex Systems
+    Date: 2026-10-18
+    
+    Line Items:
+    - Gamma-Drive SSD | Quantity: 4 | Total Amount: $743.0
+    
+    Terms: Net 30. Thank you for your business!
